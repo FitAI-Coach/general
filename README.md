@@ -2,7 +2,7 @@
 
 [![Java](https://img.shields.io/badge/language-Java-brightgreen)](https://www.oracle.com/java/)
 
-## 專案簡介
+## 專案簡介tm-my-image-model.zip
 
 本專案會根據「攝影機」和「手機感測器」所收集的數據，實時回饋學員的運動表現，並提供專業的健身建議。
 - 攝影機：使用 Teachable Machine 進行動作捕捉與關卡切換
@@ -47,3 +47,11 @@
 
 - Email: yillkid@example.com
 - GitHub Issues: [點此提交](https://github.com/FitAI-Coach/genera/issues)
+
+## 測試用資料
+
+#### Label : pose-1
+![1](https://github.com/user-attachments/assets/85eec8b1-e4bf-4cee-a577-ebb49682ea16)
+
+#### Label : pose-2
+![2](https://github.com/user-attachments/assets/2b76266d-fdd7-45a6-a446-4bc41b1a3ac5)
